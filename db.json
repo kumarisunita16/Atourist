@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "msgData": [
+    {
+      "id": 1,
+      "name": "siya mehta",
+      "email": "msiya1606@gmail.com",
+      "subject": "about my house",
+      "message": "i am planing for my dream house so contact me "
+    },
+    {
+      "id": 2,
+      "name": "riya mehta",
+      "email": "mriya1606@gmail.com",
+      "subject": "about my house",
+      "message": "i am planing for my dream house so contact me "
+    },
+    {
+      "id": 3,
+      "name": "piya mehta",
+      "email": "priya1606@gmail.com",
+      "subject": "about my house",
+      "message": "i am planing for my dream house so contact me "
+    },
+    {
+      "id": 4,
+      "name": "anjali mehta",
+      "email": "mriya1606@gmail.com",
+      "subject": "about my house",
+      "message": "i am planing for my dream house so contact me "
+    },
+    {
+      "id": 5,
+      "name": "anjali mehta",
+      "email": "mriya1606@gmail.com",
+      "subject": "about my house",
+      "message": "i am planing for my dream house so contact me "
+    },
+    {
+      "name": "sunita",
+      "email": "angelsunita23468@gmail.com",
+      "subject": "about my house",
+      "message": "isshcisdv",
+      "id": 6
+    },
+    {
+      "name": "sunita",
+      "email": "angelsunita23468@gmail.com",
+      "subject": "about my house",
+      "message": "i want to make my dream house",
+      "id": 7
+    },
+    {
+      "name": "siniya",
+      "email": "msiya1606@gmail.com",
+      "subject": "about my house",
+      "message": "kshjcsdv scn",
+      "id": 8
+    }
+  ],
+  "bookingData": [
+    {
+      "name": "sunita",
+      "email": "angelsunita23468@gmail.com",
+      "date": "12-10-2023",
+      "Destination": "2",
+      "textarea": "uiwoshuhshufuyfgh",
+      "id": 1
+    }
+  ]
+}
